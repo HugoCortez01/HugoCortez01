@@ -18,7 +18,7 @@
 - 💻 Focado em **Desenvolvimento Web**, aplicando o que aprendo em projetos práticos
 - 🐍 Também estudo Python e experimento com dados/notebooks
 - 🌱 Sempre aprendendo algo novo e evoluindo como desenvolvedor
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/hugo-cortez/)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/hugo-cortez-8418103a5/)
 
 ---
 
