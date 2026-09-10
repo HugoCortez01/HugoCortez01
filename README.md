@@ -22,16 +22,6 @@
 
 ---
 
-### 🎓 Certificados e cursos
-
-- [ ] Nome do curso — Plataforma (ano)
-- [ ] Nome do curso — Plataforma (ano)
-- [ ] Nome do curso — Plataforma (ano)
-
-> *Substitua pelos seus certificados reais. Dica: se tiver o link do certificado, transforme cada linha em um link, tipo `[Nome do curso](link-do-certificado) — Plataforma (2026)`.*
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <p>
