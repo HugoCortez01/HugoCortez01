@@ -12,13 +12,23 @@
 
 ---
 
-### 🚀 Sobre mim
+### 📚 O que estou aprendendo agora
 
-- 🎓 Cursando **Ciência da Computação** na UNIFRAN
-- 💻 Focado em **Desenvolvimento Web**, aplicando o que aprendo em projetos práticos
-- 🐍 Também estudo Python e experimento com dados/notebooks
-- 🌱 Sempre aprendendo algo novo e evoluindo como desenvolvedor
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/hugo-cortez-8418103a5/)
+- 🐍 Python (aprofundando fundamentos e aplicando em projetos)
+- 🎨 Boas práticas de CSS e responsividade
+- 🌿 Git e GitHub avançado (branches, pull requests, colaboração)
+
+> *Edite essa lista com o que você está estudando de verdade no momento — isso muda com o tempo, então vale revisar de vez em quando.*
+
+---
+
+### 🎓 Certificados e cursos
+
+- [ ] Nome do curso — Plataforma (ano)
+- [ ] Nome do curso — Plataforma (ano)
+- [ ] Nome do curso — Plataforma (ano)
+
+> *Substitua pelos seus certificados reais. Dica: se tiver o link do certificado, transforme cada linha em um link, tipo `[Nome do curso](link-do-certificado) — Plataforma (2026)`.*
 
 ---
 
@@ -42,6 +52,6 @@
 - 🐍 **[projeto-pos-formata-ao](https://github.com/HugoCortez01/projeto-pos-formata-ao)** — Projeto em Python
 - 📓 **[ImageModel](https://github.com/HugoCortez01/ImageModel)** — Notebook com modelagem de imagens
 
----
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9BF0,100:1E2327&height=100&section=footer" alt="Footer"/>
+</p>
