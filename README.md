@@ -44,13 +44,4 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HugoCortez01&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub de Hugo Cortez"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCortez01&layout=compact&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoCortez01&hide_border=true" alt="Streak de contribuições"/>
-</p>
