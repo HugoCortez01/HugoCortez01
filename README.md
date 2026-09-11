@@ -23,10 +23,10 @@
 ### 📚 O que estou aprendendo agora
 
 - 🐍 Python (aprofundando fundamentos e aplicando em projetos)
-- 🎨 Boas práticas de CSS e responsividade
+- 🎨 Boas práticas de Html ,CSS e responsividade
 - 🌿 Git e GitHub avançado (branches, pull requests, colaboração)
 
-> *Edite essa lista com o que você está estudando de verdade no momento — isso muda com o tempo, então vale revisar de vez em quando.*
+
 
 ---
 
