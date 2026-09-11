@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9BF0,100:1E2327&height=200&section=header&text=Hugo%20Cortez&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Dev%20Web%20%7C%20Python%20%2F%20Automa%C3%A7%C3%A3o%20%7C%20Dados%20%7C%20Seguran%C3%A7a&descSize=15&descAlignY=52" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:1E2327&height=200&section=header&text=Hugo%20Cortez&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Dev%20Web%20%7C%20Python%20%2F%20Automa%C3%A7%C3%A3o%20%7C%20Dados%20%7C%20Seguran%C3%A7a&descSize=15&descAlignY=52" alt="Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9BF0&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Dev+Web+%F0%9F%8C%90;Python+%2F+Automa%C3%A7%C3%A3o+%F0%9F%90%8D;An%C3%A1lise+de+Dados+%F0%9F%93%8A;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%F0%9F%94%92" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Dev+Web+%F0%9F%8C%90;Python+%2F+Automa%C3%A7%C3%A3o+%F0%9F%90%8D;An%C3%A1lise+de+Dados+%F0%9F%93%8A;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%F0%9F%94%92" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Semestre_atual-2%20de%208-2E9BF0?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Semestre atual"/>
-  <img src="https://img.shields.io/badge/Progresso_do_curso-25%25-2E9BF0?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Progresso do curso"/>
+  <img src="https://img.shields.io/badge/Semestre_atual-2%20de%208-E63946?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Semestre atual"/>
+  <img src="https://img.shields.io/badge/Progresso_do_curso-25%25-E63946?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Progresso do curso"/>
 </p>
 
 <p align="center">
@@ -64,5 +64,5 @@ Moro em **Jeriquara-SP** e fui cursar o Ensino Médio Técnico na **Etec Profess
 - 📓 **[ImageModel](https://github.com/HugoCortez01/ImageModel)** — Notebook com modelagem de imagens
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9BF0,100:1E2327&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:1E2327&height=100&section=footer" alt="Footer"/>
 </p>
